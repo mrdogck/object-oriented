@@ -1,2 +1,2 @@
 # Object-oriented
-### For object-oriented progeamming
+### For object-oriented programming
